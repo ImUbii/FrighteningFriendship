@@ -9,6 +9,4 @@ INSTRUCTIONS TO RUN PROGRAM:
 
 I created all of the art and all of the music/sound effects.
 
-Art made with [Asperite](https://www.aseprite.org/).
-
-Music & sound effects made with [BeepBox](https://www.beepbox.co/).
+Art made with [Asperite](https://www.aseprite.org/). Music & sound effects made with [BeepBox](https://www.beepbox.co/).
