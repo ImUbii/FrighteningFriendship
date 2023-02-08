@@ -1,5 +1,5 @@
 # FrighteningFriendship
-A 2D platformer game created from scratch entirely with Java. Significant features include a scrolling level, collision, original music/sound effects, and multiple menus/game states.
+A 2D platformer game created from scratch entirely with Java. Significant features include a scrolling level, collision, original music/sound effects, and multiple menus/game states. 2000+ lines of code.
 
 INSTRUCTIONS TO RUN PROGRAM:
 1. Isolate the .zip file in its own file, unzip the zip file, and access the -main folder within command prompt.
