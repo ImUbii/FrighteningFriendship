@@ -7,6 +7,8 @@ INSTRUCTIONS TO RUN PROGRAM:
 3. Jar the files with the command "jar -cvmf Manifest.txt FrighteningFriendship.jar *"
 4. Double click on the new jar or run the jar via the command prompt command "java -jar FrighteningFriendship.jar"
 
-All art and music/sound effects were created by me. 
-Art made with [Asperite] (https://www.aseprite.org/)
-Music & sound effects made with [BeepBox](https://www.beepbox.co/)
+I created all of the art and all of the music/sound effects.
+
+Art made with [Asperite](https://www.aseprite.org/).
+
+Music & sound effects made with [BeepBox](https://www.beepbox.co/).
